@@ -1,6 +1,6 @@
 <h1 align="center">Be The Hero!</h1>
 <div align="center">
-	<iframe src="https://onedrive.live.com/embed?cid=4B6E3DCA794B7BFA&resid=4B6E3DCA794B7BFA%211121&authkey=ALYRyNlqmM6RVXU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+	<img src="https://czzusq.dm.files.1drv.com/y4m6lWbv0O64XgIhZd1NZtBfsP30Bp4vHMRw4cTdTvotX_klFY_lyoHOGb2pA1r7KaB8GVcSzGkJYREv8Pc2h9aIg_-gK9W79PgZ_IODFgYNEskN1o0FqmroyE-wpbIFQhy72yWinW0xY6rsOgiQp_nPOLaPhkd-0jkvaDK5pj6JEMoZOQBDl2GmiWJRSIRvopcGUdrclx3cGxkuUBFvJ9e0w?width=336&height=251&cropmode=none" alt="" />
 </div>
 
 <p>If you want to be a hero, be the hero. This app it's for heroes.</p>
@@ -20,12 +20,12 @@
 
 # Backend
 <p>The simple backend was maden in node using express. The database used is sqlite and it is connected by knex library</p>
-<p>To see more of backend click <a href="">Here</a> or open the frontend page</p>
+<p>To see more of backend click <a href="https://github.com/Luan-Farias/Be-The-Hero/tree/master/backend">Here</a> or open the frontend page</p>
 
 # Frontend
 <p>The frontend was maden in react with create-react-app and use axios library to connect with backend</p>
-<p>To see more of frontend click <a href="">Here</a> or open the frontend page</p>
+<p>To see more of frontend click <a href="https://github.com/Luan-Farias/Be-The-Hero/tree/master/frontend">Here</a> or open the frontend page</p>
 
 # Mobile
 <p>The mobile is maden with expo that use the react-native and use expo-mail-composer to configure emails to send to NGO and axios to connect with backend</p>
-<p>To see more of mobile click <a href="">Here</a> or open the mobile page</p>
+<p>To see more of mobile click <a href="https://github.com/Luan-Farias/Be-The-Hero/tree/master/mobile">Here</a> or open the mobile page</p>
